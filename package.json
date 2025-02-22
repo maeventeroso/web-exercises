@@ -1,0 +1,19 @@
+{
+  "name": "web-exercises",
+  "version": "1.0.0",
+  "description": "web practice coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maeventeroso/web-exercises.git"
+  },
+  "author": "Mae Ann Venteroso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maeventeroso/web-exercises/issues"
+  },
+  "homepage": "https://github.com/maeventeroso/web-exercises#readme"
+}
